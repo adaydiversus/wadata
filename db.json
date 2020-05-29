@@ -2,15 +2,20 @@
   "transactions": [
     {
       "id": 1,
-      "description": "transaction 1",
-	  "status": "OPEN"
+      "type": "Address",
+	  "provider": "Department Of Transport",
+	  "status": "OPEN",
+	  "transactiondate": "2020-05-06 11:34:44"
+	  
     },
-	    {
+    {
       "id": 2,
-      "description": "transaction 1",
-	  "status": "OPEN"
+      "type": "Address",
+	  "provider": "Central Regional TAFE",
+	  "status": "COMPLETED",
+	  "transactiondate": "2020-05-28 13:34:44"
+	  
     }
-	
   ],
   "profile": {
     "name": "typicode"
