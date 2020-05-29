@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "transaction 1",
+	  "status": "OPEN"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
