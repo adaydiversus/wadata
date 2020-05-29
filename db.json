@@ -36,6 +36,15 @@
 	  "provider": "Department Of Fisheries",
 	  "link": "YES"	  
     }
+  ],  "providers": [
+    {
+      "id": 1,
+      "name": "Department of Transport"
+    },
+    {
+      "id": 2,
+	  "name": "Department Of Housing"
+    }
   ],
   "profile": {
     "name": "typicode"
